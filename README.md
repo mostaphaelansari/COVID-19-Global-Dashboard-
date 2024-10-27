@@ -4,6 +4,10 @@
 
 This interactive COVID-19 Global Dashboard is a comprehensive analytics platform built with Streamlit, providing real-time insights into the global COVID-19 pandemic. The dashboard offers a wide range of visualizations and data analysis tools to help users understand the spread and impact of COVID-19 across different regions and countries.
 
+## Live Demo
+
+The dashboard is deployed and accessible at: [https://pandemic.streamlit.app/](https://pandemic.streamlit.app/)
+
 ## Features
 
 - **Global Metrics**: Real-time display of confirmed cases, deaths, recoveries, and active cases.
@@ -60,4 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Mostapha EL ANSARI] - [mostapha.elansari@gcentrale-casablanca.ma]
 
-Project Link: [https://github.com/your-username/covid19-global-dashboard](https://github.com/your-username/covid19-global-dashboard)
+
+Deployed App: [https://pandemic.streamlit.app/](https://pandemic.streamlit.app/)
